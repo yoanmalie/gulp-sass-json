@@ -3,7 +3,7 @@ Gulp plugin for turning SASS variable definitions files into JSON files.
 
 ## Installation ##
 ```
-npm install --save-dave gulp-sass-json
+npm install --save-dev gulp-sass-json
 ```
 
 ## Example ##
